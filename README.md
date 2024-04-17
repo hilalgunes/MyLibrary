@@ -1,5 +1,5 @@
 # deneme #
-## deneme ##
+## Bir test kütüphanesidir adımları takip ederek uygulamanıza entegre edebilirsiniz ##
 
 ### Step 1. Add the JitPack repository to your build file ###
 
